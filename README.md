@@ -14,4 +14,6 @@
 
 You can use the normal Source editor or Codemirror (in about:flags), both are suported.
 
-##### Screenshots (without Codemirror) : http://imgur.com/a/3d64V
+# UPDATE
+
+I wanted the theme to more closely resemble [the solarized sublime text theme](https://github.com/frank-oc/solarized-theme/tree/master/Solarized%20Dark) so I did some tweaking. Devtools doesn't have _quite_ the same attention to detail as Sublime Text so not all elements can be styled the same way.
